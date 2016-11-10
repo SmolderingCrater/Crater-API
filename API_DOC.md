@@ -4,5 +4,5 @@
         t && t()
     }, a.onerror = function(e) {
         t && t(e)
-    }, speechSynthesis.speak(a`)
-}
+    }, speechSynthesis.speak(a)
+}'
